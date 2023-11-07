@@ -27,7 +27,7 @@ A minimalistic, customisable todo app.
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/1chandrasekhar/todolist_app.git
+$ git clone https://github.com/1chandrasekhar/Todoapp.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
